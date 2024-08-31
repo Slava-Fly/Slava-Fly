@@ -1,2 +1,2 @@
 new achiev
-select all
+select it
